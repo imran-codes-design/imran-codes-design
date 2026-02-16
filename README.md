@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Imran</h1>
 <h3 align="center">A passionate Full stack Web developer from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-codes-design&label=Profile%20views&color=0e75b6&style=flat" alt="imran-codes-design" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran-codes-design" alt="imran-codes-design" /></a> </p>
 
-- 📫 How to reach me **drimran.global@gmail.com**
+- 🌱 I’m currently learning **React/next.js,Node.js and Express,MongoDB/PostgreSQL,Git and Github workflows**
+
+- 👯 I’m looking to collaborate on **Open-source web app using Html,css,javascript,bootstrap,node.js and react**
+
+- 🤝 I’m looking for help with **system design concepts,Full-stack freelencer projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/imran-codes-design](https://github.com/imran-codes-design)
+
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,Responsive web design,Git & Github**
+
+- 📫 How to reach me **https://www.linkedin.com/in/imran-codes-design?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+
+- ⚡ Fun fact **I love turning coffee into code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,7 +25,6 @@
 <a href="https://fb.com/imran.codes.design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran.codes.design" height="30" width="40" /></a>
 <a href="https://instagram.com/code.with.imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code.with.imran" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imrantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imrantech" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/63080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="63080" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-codes-design&show_icons=true&locale=en" alt="imran-codes-design" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-codes-design&" alt="imran-codes-design" /></p>
-
